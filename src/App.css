@@ -16,11 +16,12 @@
   text-align: center;
   font-size: 32px;
   font-weight: 600;
+  color: rgb(109, 215, 132);
 }
 
 .bio {
   text-align: center;
-  color: gray;
+  color: rgb(206, 193, 193);
   margin-top: 16px;
 }
 
